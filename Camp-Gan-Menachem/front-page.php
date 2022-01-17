@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Gan Menachem home</title>
-  <link rel="icon" type="image/x-icon" href="/assets/Images/Logo.jpg">
+  <link rel="icon" type="image/x-icon" href="/assets/images/Logo.jpg">
   <div class="container">
    <!--<a href=./> <img src="/assets/images/Logo.jpg" alt="Logo"> </a>-->
 
@@ -26,7 +26,7 @@
 <nav>
   <ul>
     <div class="flex-container1">
-      <a href= /><img class="Logo1" src="/assets/Images/Logo.jpg" alt="Logo"></a>
+      <a href= /><img class="Logo1" src="/assets/images/Logo.jpg" alt="Logo"></a>
       <h2 class="text  camp">Camp Gan Menachem 5781</h2>
       <div>
         <li class="home"><a href="/">Home</a></li>
