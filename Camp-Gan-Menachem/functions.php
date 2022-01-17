@@ -1,4 +1,11 @@
 <?php 
+ function mendelsphotography_theme_support () {
+  //adds dynamic tittle tag support
+add_theme_support('title-tag');
+ }
+
+ add_action( 'after_setup_theme', 'mendelsphotography_theme_support');
+
 
 function campganmenachem_register_styles(){
 
