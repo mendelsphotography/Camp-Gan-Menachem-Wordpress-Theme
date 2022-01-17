@@ -3,7 +3,7 @@
 function campganmenachem_register_styles(){
 
     $version =wp_get_theme()->get( 'Version' );
-     wp_enqueue_style('campganmenachem-main' , get_template_directory_uri() . "/style.css", array(), '$version', 'all' );
+     wp_enqueue_style('campganmenachem-main' , get_template_directory_uri() . "/assets/css/style1.css", array(), '$version', 'all' );
 
 }
 
