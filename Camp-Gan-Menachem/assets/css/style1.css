@@ -51,8 +51,8 @@ nav a:hover {
 } */ /* Old Nav Bar Ends here */
 
 @font-face {
-    font-family: Roboto;
-    src: url(/assets/Fonts/Roboto-Black.ttf);
+  font-family: Roboto;
+  src: url(/assets/fonts/Roboto-Black.ttf);
 }
 
 /* Nav Bar Starts Here */
@@ -185,8 +185,8 @@ nav a:hover {
 } /*end of Css Flexbox*/
 
 @font-face {
-    font-family: Lobster;
-    src: url(/assets/Fonts/Lobster.ttf);
+  font-family: Lobster;
+  src: url(/assets/fonts/Lobster.ttf);
 }
 
 /* Both Button styles */
